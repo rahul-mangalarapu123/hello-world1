@@ -2,5 +2,6 @@
 void main()
 {
   printf("hello...")
-  printf("hiii...")  
+  printf("hiii...") 
+  printf("heyy...")  
 }  
